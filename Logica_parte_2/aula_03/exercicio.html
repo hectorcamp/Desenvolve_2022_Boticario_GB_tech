@@ -11,7 +11,7 @@
 	var indiceCorAtual = 0;
 
 	function desenhaCirculo(evento) {
-		// body...
+		
 		var x = evento.pageX - tela.offsetLeft;
 		var y = evento.pageY - tela.offsetTop;
 		pincel.fillStyle = cores[indiceCorAtual];
@@ -29,10 +29,10 @@
 		indiceCorAtual++;
 		
 		if(indiceCorAtual >= cores.length) {
-			indiceCorAtual = 0; // volta para a primeira cor, azul
+			indiceCorAtual = 0; 
 		}
 
-		return false; // para não exibir o menu padrão do canvas
+		return false; 
 	}	
 
 	tela.oncontextmenu = mudaCor;
