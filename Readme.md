@@ -1,6 +1,6 @@
 <h1>GB.tech Desenvolve 2022</h1>
 
-## Repositório pessoal, criado para hospedar exercícios do plano de estudo, criado pela GB.tech para o programa [Desenvolve 2022, do grupo Boticário](http://https://desenvolve.grupoboticario.com.br/ "Desenvolve 2022 do grupo Boticário").
+## Repositório pessoal, criado para hospedar exercícios do plano de estudo, da GB.tech para o programa [Desenvolve 2022, do grupo Boticário](http://https://desenvolve.grupoboticario.com.br/ "Desenvolve 2022 do grupo Boticário").
 
 [![Desenvolve 2022](https://dicasdeinfra.com.br/wp-content/uploads/2020/11/image-24.webp "Desenvolve 2022")](http:/https://desenvolve.grupoboticario.com.br// "Desenvolve 2022")
 
