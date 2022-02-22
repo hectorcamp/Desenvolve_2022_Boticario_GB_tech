@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 	<head>
 		<meta charset="UTF-8">
 		<title>Contato - Barbearia Alura</title>
@@ -25,25 +25,31 @@
         <main>
 			<form>
 				<label for="nomesobrenome">Nome e sobrenome</label>
-				<input type="text" id="nomesobrenome">
+				<input type="text" id="nomesobrenome" class="input-padrao">
 
 				<label for="email">Email</label>
-				<input type="text" id="email">
+				<input type="text" id="email" class="input-padrao">
 
 				<label for="telefone">Telefone</label>
-				<input type="text" id="telefone">
+				<input type="text" id="telefone" class="input-padrao">
 
-				<label for="Mensagem"></label>
-				<textarea cols="70" rows="10" id="Mensagem"></textarea>
+				<label for="Mensagem">Mensagem</label>
+				<textarea cols="70" rows="10" id="Mensagem" class="input-padrao"></textarea>
 
-				<label for="radio-email">Email</label>
-				<input type="radio" name="contato" value="email" id="radio-email">
-				
-				<label for="radio-telefone">Telefone</label>
-				<input type="radio" name="contato" value="telefone"  id="radio-telefone">
+				<div>
+					<p>Como prefere o nossso contato?</p>
+					<label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email"> Email</label>
+					
+					
+					<label for="radio-telefone"><input type="radio" name="contato" value="telefone"  id="radio-telefone"> Telefone</label>
+					
 
-				<label for="radio-whatsapp">WhatsApp</label>
-				<input type="radio" name="contato" value="whatssapp" id="radio-whatsapp"> 
+					<label for="radio-whatsapp"><input type="radio" name="contato" value="whatssapp" id="radio-whatsapp"> WhatsApp</label>
+					 
+				</div>
+
+				<label class="chackbox"><input type="checkbox">Gostaria de receber nossas novidades por 
+					email?</label>
 
 				<input type="submit" value="Enviar formulário">
 
