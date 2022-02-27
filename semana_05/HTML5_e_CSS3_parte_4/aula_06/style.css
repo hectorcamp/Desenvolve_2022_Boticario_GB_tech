@@ -151,19 +151,19 @@ td, th {
 	border: 1px solid #000000;
 	padding: 8px 15px;
 }
+
+
 /* css da página inicial */
 .banner {
-	width: 100%;
+	width:100%;
 }
 
 .titulo-principal {
 	text-align: center;
 	font-size: 2em;
 	margin: 0 0 1em;
-	clear: left;	
+	clear: left;
 }
-
-
 
 .principal {
 	padding: 3em 0;
@@ -173,8 +173,7 @@ td, th {
 }
 
 .principal p {
-	margin:  0 0 1em;
-
+	margin: 0 0 1em;
 }
 
 .principal strong {
@@ -182,7 +181,7 @@ td, th {
 }
 
 .principal em {
-	font-style: italic;	
+	font-style: italic;
 }
 
 .utensilios {
@@ -193,8 +192,7 @@ td, th {
 
 .mapa {
 	padding: 3em 0;
-	background: linear-gradient(#FEFEFE, #888888) ;
-	
+	background: linear-gradient(#FEFEFE, #888888);
 }
 
 .mapa-conteudo {
@@ -218,38 +216,37 @@ td, th {
 }
 
 .lista-beneficios {
-	width: 40%;	
+	width: 40%;
 	display: inline-block;
 	vertical-align: top;
 }
 
 .itens {
 	line-height: 1.5;
-
 }
 
 .itens:first-child {
 	font-weight: bold;
 }
 
-.itens::before {
-	content: "★";
+.itens:before {
+	content: "🟊";
 }
 
 .imagem-beneficios {
 	width: 60%;
+	opacity: 1;
 	transition: 400ms;
 	box-shadow: 10px 10px 10px 0 #000000;
 }
 
 .imagem-beneficios:hover {
-	opacity: 1;
 	opacity: 0.3;
 }
 
 .video {
 	width: 560px;
-	margin: 2em auto;	
+	margin: 2em auto;
 }
 
 @media screen and (max-width: 480px) {
@@ -260,7 +257,7 @@ td, th {
 	h1 {
 		text-align: center;
 	}
-	
+
 	nav {
 		position: static;
 	}
