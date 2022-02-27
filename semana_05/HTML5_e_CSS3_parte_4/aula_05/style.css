@@ -161,6 +161,8 @@ td, th {
 	font-size: 2em;
 	margin: 0 0 1em;
 	clear: left;
+	color: rgba(0, 0, 0,0.3);
+
 }
 
 
@@ -238,6 +240,12 @@ td, th {
 
 .imagem-beneficios {
 	width: 60%;
+	transition: 400ms;
+}
+
+.imagem-beneficios:hover {
+	opacity: 1;
+	opacity: 0.3;
 }
 
 .video {
