@@ -1,0 +1,577 @@
+[33mcommit 82affc31394cb1c4c6e06c537ca26966cee3f2b8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mlista[m[33m)[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sun Feb 27 02:27:27 2022 -0300
+
+    Git_Github
+
+[33mcommit cb4999e9e7f1b18c75c1987ad91b9088cf8eb796[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sun Feb 27 00:47:58 2022 -0300
+
+    Adaptar uma página para celular
+
+[33mcommit 08241b30138b359d8deb307753506d6b264f84e3[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Feb 26 23:59:25 2022 -0300
+
+    Adaptar uma página para celular
+
+[33mcommit 6cfa17fdb3fac73fba5e69f1992f5d8e7c9461c2[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Feb 26 23:41:04 2022 -0300
+
+    Opacidade e sombras
+
+[33mcommit a5c817c4a017f2f59d9cfad6856d54f8c480037f[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Feb 26 23:30:57 2022 -0300
+
+    Opacidade
+
+[33mcommit b7430ebe050374fcbe15e0c0009f8a4f9e77ee38[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Feb 26 23:22:10 2022 -0300
+
+    Seletores Avançados 2
+
+[33mcommit d1207829fe4aec1c1fcfb8d02d1f0aba0a3f9b0e[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 25 01:26:38 2022 -0300
+
+    Seletores Avançados
+
+[33mcommit dab16131fbf21fbc92e0061ace985d5fa48cabc7[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 25 00:46:25 2022 -0300
+
+    Melhorando o CSS
+
+[33mcommit 93e00b7426a6ebb00d10a647220e3963df7db4ba[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 25 00:29:00 2022 -0300
+
+    Mapas e Youtube
+
+[33mcommit aac85515917c72bb777ca7396e4c80e223ab37cb[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Feb 24 23:44:41 2022 -0300
+
+    Google fonts
+
+[33mcommit f1fad76c4ee4a1b2b06746853dcc06508258ba8e[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 23 00:53:28 2022 -0300
+
+    Adaptando a página inicial
+
+[33mcommit c1b32c4565ed9d445b3c9b1f09facf2e1c249d64[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 23 00:10:21 2022 -0300
+
+    Refazendo a página inicial
+
+[33mcommit 9bb3e38df1bcabe7e9d54a4ec82442af5a862636[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 23 00:08:55 2022 -0300
+
+    Refazendo a p
+
+[33mcommit 7e57bf5baff4aa1e262b805d219bbabaa6c6a643[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 23:53:48 2022 -0300
+
+    Estrutura de tabelas
+
+[33mcommit 5b887c9d7fd5266721cfc4c6269415c8adf2a9e3[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 19:07:47 2022 -0300
+
+    transformações
+
+[33mcommit 3e55bf828500d4bdb50013f89a3603596b0ca9b4[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 02:31:34 2022 -0300
+
+    Transições
+
+[33mcommit c0808accb53c52c3b668f005485a568b1c37c960[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 02:24:16 2022 -0300
+
+    CSS avançado
+
+[33mcommit 3b4a7e3f709e9009da946910ff3f3b0c9bfe35f2[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 02:22:04 2022 -0300
+
+    Melhorando a semântica
+
+[33mcommit aca49068faab4af2e54151f8e8599c29187005fb[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 02:05:49 2022 -0300
+
+    input para celulares
+
+[33mcommit e9960ca28f9c74ace5155cd140366774fbdf25de[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 02:00:21 2022 -0300
+
+    selecionando opções
+
+[33mcommit 17fedf59641b03bec2dd3a7f4bb4757fdc1c24f5[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 01:46:25 2022 -0300
+
+    correção
+
+[33mcommit 464fcafa5cac3b4b1b5b5cd50b875cebdc29018f[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 22 01:44:58 2022 -0300
+
+    CSS para campos complexos
+
+[33mcommit 156cbffe0498a99e8be8bdd9ba59f1498eb801b9[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Feb 19 01:13:45 2022 -0300
+
+    Tipos de campos diferentes
+
+[33mcommit 4c48652a5e8eadb3821f5c9452c1f1a700182dd0[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Feb 19 01:11:25 2022 -0300
+
+    Começando um novo formulário
+
+[33mcommit 5717f0e3ecf1427571967125a33e527d20da6480[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 18 23:57:14 2022 -0300
+
+    Começando um novo formulário
+
+[33mcommit 556647626608565cff5f44a20c683d0feaa6f1ee[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 18 23:38:16 2022 -0300
+
+    Criando uma nova página
+
+[33mcommit 1e327dd6852ddda3134a056e36027b063992765e[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 18 22:18:05 2022 -0300
+
+    Final curso
+
+[33mcommit 4837ad5f404355a8dee195471e40e705e8304f58[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 18 01:44:08 2022 -0300
+
+    Footer e Unicode
+
+[33mcommit 8b719c1aa0573850eca7314416e17927914c3061[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 18 01:35:16 2022 -0300
+
+    Imagem de fundo
+
+[33mcommit aa6ba72c1f39f013727064579fd356b5b708cdb3[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 18 01:18:24 2022 -0300
+
+    Aplicando hover e active
+
+[33mcommit e77dcbe9b7cad09fb6be4ef10caf649e6dbd2a45[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Feb 18 01:06:34 2022 -0300
+
+    Pseudo-classes de estado
+
+[33mcommit 0584290b3cff7a7d2449164c925bd30bbe561bc0[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 16 00:51:15 2022 -0300
+
+    Pseudo-classes CSS
+
+[33mcommit 751ba0d59691b19b192108158b3ccc1e28fe8979[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 16 00:10:47 2022 -0300
+
+    lidando com bordas
+
+[33mcommit e4e09545a61fa653068fd247db0c997bd2efd82b[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 12:13:07 2022 -0300
+
+    Lidando com bordas
+
+[33mcommit 555195aa3834e6f3b7d38cc5d487afa633cac3c9[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 12:03:57 2022 -0300
+
+    Ajustando o tamanho dos elementos
+
+[33mcommit 9f7b18d98d87f726e56fec68de49924a73ff77ba[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 11:46:37 2022 -0300
+
+    tag section
+
+[33mcommit b9ea7530e4b29446118e1a14271bab34fbff8fb9[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 11:33:00 2022 -0300
+
+    tag section
+
+[33mcommit 5fee77f2b640271b046426422e41dd2ed850ed60[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 02:10:35 2022 -0300
+
+    Atualização do read.me
+
+[33mcommit 2cb4aed8a15b6b3ce6cd7f15ddfa8a68351962e4[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 02:05:45 2022 -0300
+
+    Atualização do read.me
+
+[33mcommit e49f016ac99f116e1fc7295db430edb8484d6252[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 02:02:06 2022 -0300
+
+    Atualização do read.me
+
+[33mcommit fd5d2a0b30c9dda1adae59b5d0de35ec54181c4d[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 00:39:57 2022 -0300
+
+    Posicionamento entre páginas
+
+[33mcommit 03f9f1aa1932132a30a26f0cfe3fd5c461590a1a[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 15 00:16:01 2022 -0300
+
+    Navegacao entre paginas
+
+[33mcommit 98015089f3fc5e1316a7994967fed244a86152e0[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Mon Feb 14 00:55:36 2022 -0300
+
+    Criando uma nova página
+
+[33mcommit ba53ecfb6541828cd49e63e21b049d4e16c9bd79[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Feb 10 00:45:32 2022 -0300
+
+    finalizando a página
+
+[33mcommit a7b21e336bec111a2137a9cdfb33f9650e9d05c7[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 9 23:46:41 2022 -0300
+
+    lista e divisoes
+
+[33mcommit 16db5b96dcb1adc0e11239bf55d4a0e0c0850aac[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 9 23:06:52 2022 -0300
+
+    Estilizando imagens
+
+[33mcommit 2bd896eee50c51b82af21779a9ce26adc359f99a[m
+Merge: 8e28ca5 20a12f3
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 9 00:19:49 2022 -0300
+
+    trabalhando com css
+
+[33mcommit 8e28ca5cb62a9859a36ba4068510855dd9464a7f[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Feb 9 00:13:15 2022 -0300
+
+    trabalhando com css
+
+[33mcommit 76e2c8e6e7ca7c553be71c6145d24c787f6ff433[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 8 23:56:04 2022 -0300
+
+    trabalhando com css
+
+[33mcommit 20a12f3935d5808d25caa9103fc0f3c2c58f162e[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 8 23:56:04 2022 -0300
+
+    trabalhando comcss
+
+[33mcommit 6a881cb34547e37a32f735905db4a160091a75e2[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 8 23:39:38 2022 -0300
+
+    aprendendo style.css
+
+[33mcommit 1bd5568621f0839f96abaf759d3ea44df0e77ea6[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 8 23:23:04 2022 -0300
+
+[33mcommit d729546c3acd415d0e37e1f27d0f090c6ade1c35[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 1 02:47:54 2022 -0300
+
+[33mcommit b905483408669bf57ad75445b0ad6d31a1d55e87[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Tue Feb 1 01:54:58 2022 -0300
+
+[33mcommit d178f0b29d2c255a9b63dd26cf1ea3a4fd3c8218[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Mon Jan 31 19:33:19 2022 -0300
+
+[33mcommit e7d0396d566094dd96b2cec2b327d06540297483[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Mon Jan 31 02:25:32 2022 -0300
+
+[33mcommit 891458393af7a7d2436aa9c0a48b92fb1f9c7b39[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Mon Jan 31 01:51:02 2022 -0300
+
+[33mcommit 54269beb1e645424fea3a3c352191d8b88525d42[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Mon Jan 31 01:50:02 2022 -0300
+
+[33mcommit 60a03c81da3d1a934a43a622900303d5a5bf4f42[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Mon Jan 31 00:05:56 2022 -0300
+
+[33mcommit 40efcc7e9d8f9ed26c82299bf3f205c575517d6a[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sun Jan 30 23:34:49 2022 -0300
+
+[33mcommit 39781fbed7997b09d03ab85daddd037760e690c2[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sun Jan 30 02:52:07 2022 -0300
+
+[33mcommit 4be69d76650b78dbc66e26101ef6acdd58f4811f[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 29 13:34:35 2022 -0300
+
+[33mcommit bc40c32592b9716edad6acc244c4bd0e8b3f063d[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 29 13:29:18 2022 -0300
+
+[33mcommit a44e9e25a943b3b7588032293d50444a2ed28140[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 29 12:34:06 2022 -0300
+
+[33mcommit 90e808d1cbcfae09ebc074e0b0cd3db4e5775feb[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 29 11:55:41 2022 -0300
+
+[33mcommit f571b9d2cf31821fe321e6b895ab1b14afba464d[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 29 02:36:31 2022 -0300
+
+[33mcommit 62d7eacfe7ec32e3e3779de7081d792f512573d8[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 27 02:28:15 2022 -0300
+
+[33mcommit c7564e0d48acded14a54180e425cc84c4bfc39a6[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 27 02:16:14 2022 -0300
+
+[33mcommit a2f11cb39c2e63ac89e6bec7a2a0cdce9af43701[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 27 02:12:56 2022 -0300
+
+[33mcommit 6eb14f78b304dd9fa8f337c91d211fa7b2cd6637[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 27 01:52:26 2022 -0300
+
+[33mcommit 8eed92886dc1249e4129c122ccececae88d4c2c4[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 27 01:49:43 2022 -0300
+
+    update
+
+[33mcommit 6ab43e7396e69719d643e35a6679392e3a8f4dce[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 27 01:12:28 2022 -0300
+
+    update
+
+[33mcommit 73f5a690f9f1d87417f6b91a9cfdb291998f08f7[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Wed Jan 26 02:40:15 2022 -0300
+
+    logica_02
+
+[33mcommit c185069dcc5ed2fd7241c06cbc469d822fa1c5a4[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Mon Jan 24 00:18:21 2022 -0300
+
+[33mcommit 760dae3a567999ccb88f390fcf214530d87f43c9[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sun Jan 23 23:54:20 2022 -0300
+
+[33mcommit 929cd782f1a098e105ea2cca5d3800bfe9e7e2a3[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sun Jan 23 02:02:46 2022 -0300
+
+[33mcommit 7841959c842271b4c4db37d827065b99d92131c1[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 17:55:04 2022 -0300
+
+[33mcommit 9246082546a0f407da817b10ed8b9af92b56e411[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 17:41:35 2022 -0300
+
+[33mcommit 1b008a946261226a7e75c2f0622e827ec6b2c251[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 17:19:49 2022 -0300
+
+    update
+
+[33mcommit c74dda20675e2ada97b8d4e318146082e8fe9aa2[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 16:36:51 2022 -0300
+
+    update
+
+[33mcommit 6460557f6b9af37b648e77f5575535dd5dedfa4e[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 16:25:36 2022 -0300
+
+    update
+
+[33mcommit 56da5e5dccffe070b97efe31629cb68c4af341df[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 15:41:14 2022 -0300
+
+    update
+
+[33mcommit de752b3b190f99f7b5978811c67b311c385538fd[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 15:33:38 2022 -0300
+
+    update
+
+[33mcommit 3f52d3c4baac6bf4a97f81d9d046ff03ad841e51[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 15:32:22 2022 -0300
+
+    update
+
+[33mcommit 872a085b528038eebde9055afe5e15904b925ba0[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 02:56:39 2022 -0300
+
+    update
+
+[33mcommit b358bda4a2af1ca13666e238022c1400021c990b[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 01:18:23 2022 -0300
+
+    update
+
+[33mcommit 23b2d58b0d6a99cda150a7e46c9b5a0342a25735[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 01:16:43 2022 -0300
+
+    update
+
+[33mcommit 9054f2ada42a3b3c8d7decec912ee56e065c991a[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Sat Jan 22 00:46:11 2022 -0300
+
+    update
+
+[33mcommit 70888c6e61e9b0ad478b46d2a6a207e47c747754[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Jan 21 23:38:10 2022 -0300
+
+    update
+
+[33mcommit ca37273d7750ae29c64f5de48f0c5f152c123506[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Jan 21 23:00:07 2022 -0300
+
+    update
+
+[33mcommit 75171cf3eb146a05637aa23d7e8dfb09d23130ba[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Jan 21 22:47:15 2022 -0300
+
+    update
+
+[33mcommit af34626b8c11a56ee133426fa36278d081a74c76[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Jan 21 21:09:23 2022 -0300
+
+    update
+
+[33mcommit 99ea3255cf8574f41654ac0982926b0bab19404d[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Fri Jan 21 01:14:25 2022 -0300
+
+    aula 4
+
+[33mcommit 61c78269379a12541c8c3c30a6a9286a889e8366[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 23:49:59 2022 -0300
+
+    aula 4
+
+[33mcommit 7d16d745843c44290811e238d73156868350a024[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 23:00:34 2022 -0300
+
+    aula 4
+
+[33mcommit 26b0310ddf925bfb2fc95d2c1bfe8e4d9ef10ca4[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 22:38:50 2022 -0300
+
+    second commit
+
+[33mcommit 45f49f71f2f7f1409753329c84e381b700a2ebe1[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 22:37:47 2022 -0300
+
+    first commit
+
+[33mcommit 5e9ac9e83564019f63b361c9d7a4748c8bc7abcf[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 22:28:19 2022 -0300
+
+    segundo commit
+
+[33mcommit 19a38eccf28af90b106cbb8840782bdb10f2ee8c[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 22:22:39 2022 -0300
+
+    update readme
+
+[33mcommit 06e36805a5a6a10ad06e82ec251a59c5ffc5be77[m
+Merge: e82bf41 ad600cc
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 22:20:46 2022 -0300
+
+    update readme
+
+[33mcommit e82bf4102f0d21c935cf9e65781be28131129a03[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 22:16:15 2022 -0300
+
+    update
+
+[33mcommit ad600ccad129669d3143ce9569e297aec98f531d[m
+Author: hectorcamp <hectorcampos@unigranrio.br>
+Date:   Thu Jan 20 22:12:50 2022 -0300
+
+    Update Readme.md
+
+[33mcommit 53eda6ee9e99f387697042f206bfb84201282a96[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 22:11:53 2022 -0300
+
+    commit
+
+[33mcommit 80c71ca5e2f7a8f6b789d6154183d7b5b5c0a5c5[m
+Author: hectorcamp <hectorcamp@gmail.com>
+Date:   Thu Jan 20 20:30:12 2022 -0300
+
+    primeiro commit
