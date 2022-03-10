@@ -40,17 +40,20 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
 
     tecla.onkeydown = function (evento) {
 
-        //if ('Espaço') {
+        console.log(evento.code)
+
+        if (evento.code === 'Space') {
              tecla.classList.add('ativa');    
-       // }
+        }
         
     }
     
     tecla.onkeyup = function () {
+        
         tecla.classList.remove('ativa');
     }
 
-    con
+
 }
 
     
