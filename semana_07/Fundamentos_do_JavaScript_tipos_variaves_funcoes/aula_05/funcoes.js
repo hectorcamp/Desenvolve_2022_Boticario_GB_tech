@@ -19,7 +19,7 @@ imprimeTexto(soma());
 
 //três formas de escrever funções
 
-function soma(){
+function soma() {
     //return tem que ser a última linha da função
     return 2 + 2;
 }

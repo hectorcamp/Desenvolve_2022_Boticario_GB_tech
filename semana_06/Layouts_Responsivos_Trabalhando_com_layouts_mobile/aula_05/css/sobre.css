@@ -37,7 +37,7 @@
     display: none;
 }
 
-@media  screen and (min-width:1024px) {
+@media  screen and (min-width:1020px) {
     .sobre {
         display: flex;
     }
