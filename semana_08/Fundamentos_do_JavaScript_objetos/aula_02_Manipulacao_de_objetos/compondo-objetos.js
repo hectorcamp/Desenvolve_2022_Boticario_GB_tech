@@ -1,4 +1,4 @@
-const cliente = {
+    const cliente = {
     //  chave_valor
         nome:"André", // dados tipo string
         idade: 36, // dados tipo numero
