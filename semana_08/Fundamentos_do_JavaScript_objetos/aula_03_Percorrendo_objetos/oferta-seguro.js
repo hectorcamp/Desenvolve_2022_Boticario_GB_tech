@@ -30,7 +30,7 @@ const cliente = {
       }
   }
 
-  console.log(Object.values(cliente))  
+  console.log(Object.entries(cliente))  
   oferecerSeguro(cliente)
 
   
