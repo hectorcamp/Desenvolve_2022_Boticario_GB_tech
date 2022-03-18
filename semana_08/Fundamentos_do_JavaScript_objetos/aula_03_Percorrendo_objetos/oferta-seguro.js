@@ -30,6 +30,7 @@ const cliente = {
       }
   }
 
+  console.log(Object.values(cliente))  
   oferecerSeguro(cliente)
 
   
