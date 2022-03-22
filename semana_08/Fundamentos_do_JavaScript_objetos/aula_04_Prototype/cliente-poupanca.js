@@ -13,7 +13,7 @@ function ClientePoupanca(nome, cpf, email, saldo, saldoPoup) {
     this.saldoPoup = saldoPoup
 }
 
-const ju = new ClientePoupanca("Ju", "1845121231", "jum@email.com", 100, 200)
+const ju = new ClientePoupanca("Ju", "1845121231", "ju@email.com", 100, 200)
 
 console.log(ju)
 
