@@ -1,8 +1,9 @@
-const { pegarPorId } = require('./TabelaFornecedor')
 const TabelaFornecedor = require('./TabelaFornecedor')
+const CampoInvalido = require('../../erros/CampoInvalido')
+const DadosNaoFornecidos = require('../../erros/DadosNaoFornecidos')
 
 class Fornecedor {
-    constructor ({ id, empresa, email, categoria, dataCriacao, dataAtualizacao, versao}){
+    constructor ({ id, empresa, email, categoria, dataCriacao, dataAtualizacao, versao }) {
         this.id = id
         this.empresa = empresa
         this.email = email
@@ -16,8 +17,8 @@ class Fornecedor {
         this.validar()
         const resultado = await TabelaFornecedor.inserir({
             empresa: this.empresa,
-            email: this.email, 
-            categoria: this.categoria,
+            email: this.email,
+            categoria: this.categoria
         })
 
         this.id = resultado.id
@@ -49,8 +50,8 @@ class Fornecedor {
             }
         })
 
-        if (Object.keys(dadosParaAtualizar) .length === 0) {
-            throw new Error('Não foram fornecidos dados para atualizar!')
+        if (Object.keys(dadosParaAtualizar).length === 0) {
+            throw new DadosNaoFornecidos()
         }
 
         await TabelaFornecedor.atualizar(this.id, dadosParaAtualizar)
@@ -64,14 +65,13 @@ class Fornecedor {
         const campos = ['empresa', 'email', 'categoria']
 
         campos.forEach(campo => {
-            const valor = this [campo]
+            const valor = this[campo]
 
             if (typeof valor !== 'string' || valor.length === 0) {
-                throw new Error(`O campo '${campo}' está inválido`)
+                throw new CampoInvalido(campo)
             }
         })
     }
-
 }
 
 module.exports = Fornecedor
