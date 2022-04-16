@@ -22,9 +22,7 @@ const colunas = {
             model: require('../ModeloTabelaFornecedor'),
             key: 'id'
         }
-
     }
-
 }
 
 const opcoes = {
