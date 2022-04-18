@@ -11,6 +11,11 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      Turmas.hasMany(models.Matriculas, {
+        foreignKey: 'turma_id'
+      })
+      Turmas.belongsTo(models.Pessoas)
+      Turmas.belongsTo(models.Niveis)
     }
   }
   Turmas.init({
