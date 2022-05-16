@@ -30,3 +30,12 @@
     flex-flow: column wrap;
     height: 250px;
 }
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}    
+.conteudoPrincipal-cursos-link{
+    width: 23%;
+    margin-bottom: 1%;
+}
