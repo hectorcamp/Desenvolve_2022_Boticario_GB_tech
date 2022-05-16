@@ -44,3 +44,14 @@
 .conteudoPrincipal-cursos-link:nth-child(4n+1) {
     margin-right: 0;
 }
+
+
+/* parte mobile */
+.cabecalhoPrincipal-nav {
+    flex-direction: column;
+}
+
+.cabecalhoPrincipal .container {
+    flex-direction: column;
+    
+}
