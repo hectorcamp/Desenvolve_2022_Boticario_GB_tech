@@ -13,22 +13,33 @@ div:nth-child(8) { background-color: silver; }
 
 .flexContainer {
 	display: flex;
-	/*justify-content: space-around;
+	/* justify-content: space-around;
 	align-items: center;
-	flex-direction: column;*/
+	flex-direction: column; */
 }
 
 .flexItem {
-	/*flex: 0 1 25%;*/
-	flex: 0 1 200px;
+	flex: 0 1 25%;
 }
 
 .primeiro {
-	/*flex-grow: 3;*/
-	/*flex-shrink: 2;*/
+	/* flex-grow: 3; */
+	/* flex-shrink: 2; */
+}
+/* .flexItem {
+	flex: 0 1 25%;
+	flex: 0 1 200px;
 }
 
-/*100 / 5 = 20*/
+
+
+
+.primeiro {
+	flex-grow: 3;
+	flex-shrink: 2;
+}
+
+100 / 5 = 20 */
 
 
 
