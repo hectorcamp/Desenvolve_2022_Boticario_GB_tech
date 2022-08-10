@@ -33,6 +33,13 @@ module.exports = {
           return res.status(401).json({ erro: erro.message });
         }
 
+        if (erro && erro.name === 'TokenExpriredError') {
+          return res
+            .status(401)
+            .json({ erro: erro.message, expiradoEm: erro.expiredAt });
+        }
+
+
         if (erro) {
           return res.status(500).json({ erro: erro.message });
         }
