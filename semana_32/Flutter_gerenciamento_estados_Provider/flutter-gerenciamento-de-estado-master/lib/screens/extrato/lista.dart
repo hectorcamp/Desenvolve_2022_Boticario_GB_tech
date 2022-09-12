@@ -1,12 +1,13 @@
 import 'package:bytebank/models/transferencia.dart';
 import 'package:bytebank/models/transferencias.dart';
+import 'package:bytebank/screens/extrato/item.dart';
 import 'package:bytebank/screens/transferencia/formulario.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-const _tituloAppBar = 'Transferências';
+const _tituloAppBar = 'Extrato';
 
-class ListaTransferencias extends StatelessWidget {
+class ListaMovimentacoes extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -16,10 +17,14 @@ class ListaTransferencias extends StatelessWidget {
       body: Consumer<Transferencias>(
         builder: (context, transferencias, child) {
           return ListView.builder(
-            itemCount: transferencias.lista().length,
+            itemCount: transferencias.transferencias.length,
             itemBuilder: (context, indice) {
-              final transferencia = transferencias.lista()[indice];
-              return ItemTransferencia(transferencia);
+              final transferencia = transferencias.transferencias[indice];
+
+              return Item.transferencia(
+                transferencia.toStringValor(),
+                transferencia.toStringConta(),
+              );
             },
           );
         },
